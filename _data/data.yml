@@ -97,5 +97,4 @@ skills:
         level: 85%
 
 footer: >
-    [Click here to download my PDF Resume.]({{ "/assets/images/My Resume.pdf" | absolute_url }})
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> and edited by <a href="https://blog.mphomphego.co.za" target="_blank" rel="nofollow">Mpho Mphego</a>
